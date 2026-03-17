@@ -4,3 +4,4 @@ Deno.serve({ port }, (req: Request) => {
   if (url.pathname === "/healthz") return new Response("ok");
   return Response.json({ runtime: "deno", status: "ok" });
 });
+// cache-auth-basic test 1773708583
