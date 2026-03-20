@@ -1,3 +1,1 @@
-# cpln-test-deno
-v2
-v3
+# cpln-test-deno\n\nDeploy test: 2026-03-20T03:15:47Z
