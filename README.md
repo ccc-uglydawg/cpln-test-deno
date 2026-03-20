@@ -1,1 +1,2 @@
-# cpln-test-deno\n\nDeploy with fresh token: 2026-03-20T20:40:13Z
+# cpln-test-deno
+v2
